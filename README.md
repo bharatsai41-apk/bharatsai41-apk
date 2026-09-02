@@ -69,4 +69,22 @@ I’m passionate about building scalable backend systems, mastering distributed 
 
 ---
 
-## 🌌
+## 🌌 Interests
+- 🏁 **Motorsport Analysis**: Studying race data, tyre strategies, pit-stop decisions, and outcomes.  
+- 🚀 **Quantum Physics & Space**: Exploring quantum fundamentals, computing, and emerging space technologies.  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: [bharatsaimallina@gmail.com](mailto:bharatsaimallina@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mallina-bharat-sai-514755321](https://linkedin.com/in/mallina-bharat-sai-514755321)  
+- 💻 GitHub: [github.com/bharatsai41-apk](https://github.com/bharatsai41-apk)  
+- 🧩 Profiles: [LeetCode](https://leetcode.com/u/Bharatsaimallina1/) | [Codeforces](https://codeforces.com/profile/bharatsaimallina) | [CodeChef](https://codechef.com/users/headhunter_1) | [HackerRank](https://hackerrank.com/profile/24pa1a12c5)  
+
+---
+
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/racing-checkered-flag-banner.jpg" alt="Motorsport Footer" width="100%">
+</p>
+
+⭐️ *“Backend engineering is not just about code — it’s about designing systems that scale, perform, and stay secure, much like motorsport strategies and quantum precision.”*
