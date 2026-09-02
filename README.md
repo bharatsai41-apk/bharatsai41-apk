@@ -17,13 +17,13 @@ I’m passionate about building scalable backend systems, mastering distributed 
 ---
 
 ## 🛠️ Projects
-- **[StudentGit](ca://s?q=StudentGit_project_interview_questions)**  
+- **StudentGit**  
   Interactive console app teaching 20 core Git commands with error handling, input validation, and GitHub PAT authentication.  
 
-- **[CF Analytics](ca://s?q=CF_Analytics_project_interview_questions)**  
+- **CF Analytics**  
   Backend service integrating Codeforces API with caching, rate limiting, and REST endpoints for user analytics.  
 
-- **[LeetCode Backend Clone](ca://s?q=LeetCode_Backend_Clone_project_interview_questions)** *(In Progress)*  
+- **LeetCode Backend Clone** *(In Progress)*  
   Scalable backend platform with EF Core, Redis caching, secure authentication, and email services.  
 
 ---
@@ -35,6 +35,16 @@ I’m passionate about building scalable backend systems, mastering distributed 
 - **Certifications**:  
   - NPTEL Silver Medalist (Object-Oriented System Development)  
   - Cisco Networking Academy – Introduction to Cybersecurity  
+
+---
+
+## 📊 GitHub & Coding Stats
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatsai41-apk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatsai41-apk&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharatsai41-apk&theme=radical)  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bharatsaimallina1?theme=dark)  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=bharatsaimallina&theme=dark)  
 
 ---
 
@@ -53,4 +63,3 @@ I’m passionate about building scalable backend systems, mastering distributed 
 ---
 
 ⭐️ *“Backend engineering is not just about code — it’s about designing systems that scale, perform, and stay secure.”*
-
