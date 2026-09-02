@@ -1,8 +1,18 @@
+![Motorsport & Quantum Banner](https://github.com/bharatsai41-apk/bharatsai41-apk/blob/main/ezgif-47a0a7ec43ed4e.png)
+
 # 👋 Hi, I'm Mallina Bharat Sai  
 
 🎯 **Backend Engineer | IT Undergraduate | Problem Solver**  
 
 I’m passionate about building scalable backend systems, mastering distributed caching, and solving complex problems through clean code and efficient design. With hands-on experience in **C#, .NET, ASP.NET Core, REST APIs, EF Core, Redis**, and **security practices**, I love turning ideas into robust applications.
+
+---
+
+## 🏎️ Backend Engineering Meets Motorsport
+- ⚡ **Performance Optimization** = Faster lap times  
+- 🛠️ **Error Handling** = Pit-stop problem solving  
+- 🧠 **Algorithms** = Race strategy decisions  
+- 📊 **Analytics** = Telemetry and tyre data insights  
 
 ---
 
@@ -44,12 +54,12 @@ I’m passionate about building scalable backend systems, mastering distributed 
 
 ## 📊 GitHub & Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatsai41-apk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatsai41-apk&show_icons=true&theme=radical&icon_color=ff0000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatsai41-apk&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsai41-apk&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsai41-apk&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
 </p>
 
 <p align="center">
@@ -59,18 +69,4 @@ I’m passionate about building scalable backend systems, mastering distributed 
 
 ---
 
-## 🌌 Interests
-- **Motorsport Analysis**: Studying race data, tyre strategies, pit-stop decisions, and outcomes.  
-- **Quantum Physics & Space**: Exploring quantum fundamentals, computing, and emerging space technologies.  
-
----
-
-## 📫 Connect with Me
-- 📧 Email: [bharatsaimallina@gmail.com](mailto:bharatsaimallina@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mallina-bharat-sai-514755321](https://linkedin.com/in/mallina-bharat-sai-514755321)  
-- 💻 GitHub: [github.com/bharatsai41-apk](https://github.com/bharatsai41-apk)  
-- 🧩 Profiles: [LeetCode](https://leetcode.com/u/Bharatsaimallina1/) | [Codeforces](https://codeforces.com/profile/bharatsaimallina) | [CodeChef](https://codechef.com/users/headhunter_1) | [HackerRank](https://hackerrank.com/profile/24pa1a12c5)  
-
----
-
-⭐️ *“Backend engineering is not just about code — it’s about designing systems that scale, perform, and stay secure.”*
+## 🌌
