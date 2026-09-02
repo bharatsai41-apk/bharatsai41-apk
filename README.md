@@ -6,7 +6,11 @@ I’m passionate about building scalable backend systems, mastering distributed 
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,sqlite,redis,docker,git,github" />
+</p>
+
 - **Languages**: C#, Java  
 - **Backend**: .NET, ASP.NET Core, RESTful APIs, Entity Framework Core  
 - **Performance**: Redis, Distributed Caching, Rate Limiting  
@@ -39,12 +43,19 @@ I’m passionate about building scalable backend systems, mastering distributed 
 ---
 
 ## 📊 GitHub & Coding Stats
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatsai41-apk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatsai41-apk&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharatsai41-apk&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatsai41-apk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatsai41-apk&layout=compact&theme=radical" />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Bharatsaimallina1?theme=dark)  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=bharatsaimallina&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatsai41-apk&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Bharatsaimallina1?theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bharatsaimallina&theme=dark" />
+</p>
 
 ---
 
